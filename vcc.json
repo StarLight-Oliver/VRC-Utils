@@ -1,14 +1,14 @@
 {
 	"name": "Star's VRC Utils",
 	"id": "dev.osiris.vrc",
-	"url": "https://vrchat.github.io/packages/index.json",
+	"url": "https://raw.githubusercontent.com/StarLight-Oliver/VRC-Utils/v0.0.1/vcc.json",
 	"author": "Star",
 	"packages": {
 		"dev.osiris.vrc.utils": {
 		  "versions": {
 			"0.0.1": {
 			  "name": "dev.osiris.vrc.utils",
-			  "url" : "",
+			  "url" : "https://github.com/StarLight-Oliver/VRC-Utils/releases/download/v0.0.1/VRC-Utils-v-0.0.1.zip",
 			  "displayName": "Star's VRC Utils",
 			  "version": "0.0.1",
 			  "description": "A collection of utilities for doing things in unity that are VRC Related",
