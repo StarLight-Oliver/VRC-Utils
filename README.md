@@ -1,1 +1,1 @@
-# VRC-Utils
+# dev.osiris.vrc.utils by Star
