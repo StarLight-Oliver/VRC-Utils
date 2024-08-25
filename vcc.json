@@ -15,7 +15,26 @@
 			  "dependencies": {},
 			  "gitDependencies": {},
 			  "vpmDependencies": {
-				"com.vrchat.avatars": "3.6.0"
+				"com.vrchat.avatars": ">=3.6.0"
+			  },
+			  "author": {
+				"name": "Star",
+				"email": "dont@email.me",
+				"url": ""
+			  },
+			  "legacyFolders": {},
+			  "legacyFiles": {}
+			},
+			"0.0.2": {
+			  "name": "dev.osiris.vrc.utils",
+			  "url" : "https://github.com/StarLight-Oliver/VRC-Utils/releases/download/v0.0.2/VRC-Utils-v-0.0.2.zip",
+			  "displayName": "Star's VRC Utils",
+			  "version": "0.0.2",
+			  "description": "A collection of utilities for doing things in unity that are VRC Related",
+			  "dependencies": {},
+			  "gitDependencies": {},
+			  "vpmDependencies": {
+				"com.vrchat.avatars": ">=3.6.0"
 			  },
 			  "author": {
 				"name": "Star",
