@@ -15,7 +15,7 @@
 			  "dependencies": {},
 			  "gitDependencies": {},
 			  "vpmDependencies": {
-				"com.vrchat.avatars": ">=3.6.0"
+				"com.vrchat.avatars": "3.x.x"
 			  },
 			  "author": {
 				"name": "Star",
@@ -34,7 +34,7 @@
 			  "dependencies": {},
 			  "gitDependencies": {},
 			  "vpmDependencies": {
-				"com.vrchat.avatars": ">=3.6.0"
+				"com.vrchat.avatars": "3.x.x"
 			  },
 			  "author": {
 				"name": "Star",
