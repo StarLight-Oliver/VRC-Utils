@@ -8,6 +8,8 @@ using VRC.SDK3.Avatars.Components;
 using System;
 using System.Collections.Generic;
 
+using System.Threading.Tasks;
+
 using VRC.Core;
 
 using System.Linq;
@@ -18,7 +20,7 @@ namespace StarUtils
 	public class BulkUploadAvis : MonoBehaviour
 	{
 
-		public async static bool UploadAvatar( GameObject avatarObject) {
+		public async static Task<bool> UploadAvatar( GameObject avatarObject) {
 			if (!VRCSdkControlPanel.TryGetBuilder<IVRCSdkAvatarBuilderApi>(out var builder)) return false;
 			var sdkBuilder = (IVRCSdkBuilderApi)builder;
 

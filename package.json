@@ -1,7 +1,7 @@
 {
   "name": "dev.osiris.vrc.utils",
   "displayName": "Star's VRC Utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of utilities for doing things in unity that are VRC Related",
   "dependencies": {},
   "gitDependencies": {},
